@@ -1,0 +1,12 @@
+{
+  "name": "friend-chat",
+  "version": "1.0.0",
+  "description": "A small real-time chat for me and my friends",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
